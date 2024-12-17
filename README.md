@@ -5,6 +5,8 @@ Certifications: ![Game Development Certificate](https://github.com/9611154/gamed
 
 ![Computer Science Certificate](https://github.com/9611154/gamedevportfolio/blob/main/images/Cole%20Tayler_Exploring%20Computer%20Science_05102024.pdf)
 
+## Shape Game
+
 Student at Skyline High School with projected graduation in 2027
 
 ![Eagle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjzTt0jhwV7p_hkvdFVjYXyW6flJR8een6tg&s)
