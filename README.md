@@ -17,4 +17,8 @@ Student at Skyline High School with projected graduation in 2027
 
 Tower defense similar to BTD 6. Multiple maps. Maps include rivers, grass, paths for balloons, and more. The characters are monkeys that will destroy balloons in their own ways. Seperate paths of upgrades are unlockable. The characters will conist of wizards, ninjas, canons, snipers, and more. The game is going to use 2D models. The maps will be colorful while still following the rough sketches we come up with. The balloon will have different dificulties. Depending on which level/wave the user is on will depend on the difficulty of the balloons. All the balloons will have their strenghts and weaknesses.
 
+*I coded lots
+*I also got the darts to fire from the monkeys
+*Our team worked very well together and we prospered through challenges
+
 ##Projects for Term 2
