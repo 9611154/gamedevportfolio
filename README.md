@@ -7,6 +7,8 @@ Certifications: ![Game Development Certificate](https://github.com/9611154/gamed
 
 ## Shape Game
 
+![Shape Game](https://github.com/9611154/gamedevportfolio/tree/main/src/ShapeGame)
+
 Student at Skyline High School with projected graduation in 2027
 
 ![Eagle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjzTt0jhwV7p_hkvdFVjYXyW6flJR8een6tg&s)
