@@ -3,7 +3,7 @@ Contact Info: Personal: colehtayler@gmail.com  School: 9611154@graniteschools.or
 
 Certifications: ![certification]()
 
-![certification](file:///Users/9611154/Downloads/Cole%20Tayler_Game%20Development%20Fundamentals_12132024.pdf)
+![certification]([file:///Users/9611154/Downloads/Cole%20Tayler_Game%20Development%20Fundamentals_12132024.pdf](https://github.com/9611154/gamedevportfolio/blob/main/images/Cole%20Tayler_Exploring%20Computer%20Science_05102024.pdf))
 
 Student at Skyline High School with projected graduation in 2027
 
