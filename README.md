@@ -1,7 +1,7 @@
 # Cole Tayler's Game Development Portfolio 2024-2025
 Contact Info: Personal: colehtayler@gmail.com  School: 9611154@graniteschools.org
 
-Certifications: ![certification](file:///Users/9611154/Downloads/Cole%20Tayler_Exploring%20Computer%20Science_05102024.pdf)
+Certifications: ![certification]()
 
 ![certification](file:///Users/9611154/Downloads/Cole%20Tayler_Game%20Development%20Fundamentals_12132024.pdf)
 
