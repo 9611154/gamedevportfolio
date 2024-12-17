@@ -1,4 +1,5 @@
 # Cole Tayler's Game Development Portfolio 2024-2025
+Contact Info: Personal: colehtayler@gmail.com  School: 9611154@graniteschools.org
 Student at Skyline High School with projected graduation in 2027
 ![Eagle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjzTt0jhwV7p_hkvdFVjYXyW6flJR8een6tg&s)
 
